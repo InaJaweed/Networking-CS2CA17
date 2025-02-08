@@ -1,4 +1,4 @@
-# Computer Architecture & Networking - CS2CA17
+# Networking - CS2CA17
 
 This repository contains the coursework for the Computer Architecture & Networking module (CS2CA17) at the University of Reading, instructed by Professor Shuang-Hua Yang.
 
